@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋 I'm Dheeraj Singh  
 
-<!--
-**dheeraj6390/dheeraj6390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Learner  
+🌱 Currently learning Node.js & MongoDB  
+🚀 Interested in building real-world web applications  
+🇮🇳 From Uttar Pradesh, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🔰 Beginner but consistent developer  
+- 📚 Learning by building projects  
+- 🧠 Strong interest in backend & APIs  
+- 🎯 Goal: Become a Full Stack Developer  
+
+---
+
+## 🛠 Tech Stack
+**Frontend**
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+
+**Backend**
+- Node.js  
+- Express.js  
+
+**Database**
+- MongoDB  
+
+**Tools**
+- Git  
+- GitHub  
+- VS Code  
+
+---
+
+## 📌 Current Focus
+- MERN Stack Projects  
+- Authentication & Authorization  
+- REST APIs  
+- Clean Code Practices  
+
+---
+
+## 📂 Projects (Coming Soon 🚧)
+- 🌾 AgriTradeHub (MERN App)  
+- 🔐 Authentication System  
+- 🛒 E-Commerce Backend  
+
+---
+
+## 📊 GitHub Stats
+![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj6390&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dheeraj6390&theme=tokyonight)
+
+---
+
+✨ Roz thoda code, roz thoda progress 🔥
